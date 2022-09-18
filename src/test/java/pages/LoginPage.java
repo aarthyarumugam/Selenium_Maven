@@ -34,7 +34,7 @@ public class LoginPage {
 	
 	    //**************Methods**************//
 	    
-	public void Login(String UserNameVal, String PassVal) {
+	           public void Login(String UserNameVal, String PassVal) {
 			        
 		        //Step-2 Login to application       
 		        LoginLink.click();
